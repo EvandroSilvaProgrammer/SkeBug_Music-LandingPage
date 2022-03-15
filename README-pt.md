@@ -18,37 +18,37 @@
 </h1>
 
 <h4 align="center"> 
-	🚧 Developing 🚧
+	🚧 Em construção 🚧
 </h4>
 
-<h3 align="center"> <a href="https://skebugmusic-landingpage.vercel.app/">Access demo</a> </h3>
+<h3 align="center"> <a href="https://skebugmusic-landingpage.vercel.app/">Acessar a demonstração</a> </h3>
 
 ---
-## Index:
+## Índice:
 <!--ts-->
-   * [About](#-about-the-project)
-   * [Technologies](#-technologies)
-   * [How to run the project](#-how-to-run-the-project)
-      * [Prerequisites](#-pré-requisitos)
-      * [Runing the project](#-runing-the-project)
-   * [Author](#-author)
-   * [License](#-license)
-   * [ReadMe versions](#-readme-versions)
+   * [Sobre](#-sobre-o-projeto)
+   * [Tecnologias](#-tecnologias)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+      * [Pré-requisitos](#-pré-requisitos)
+      * [Rodando o projecto](#-rodando-o-projeto)
+   * [Autor](#-autor)
+   * [Licença](#-licença)
+   * [Versões do ReadMe](#-versões-do-readme)
         * [Português](./README-pt.md)
-        * [English](./README.md)
+        * [Inglês](./README.md)
 <!--/ts-->
 <!--te-->
 ---
-## 💻 About the project
+## 💻 Sobre o projeto
 
 <p>
-    🎵 <strong>SkeBug Music - Landing Page</strong> is a project developed for study, applied in a real need which is the construction of a landing page to capture leeds using <strong>Email-Marketing</strong> strategies through of a Newsletter and to present a project in development that is the <strong>SkeBug Music App</strong> - A music streaming and music sales platform that seeks to give greater visibility to <strong> Angolan musical artists</strong > and the best usability experience for your listeners.
+    🎵 <strong>SkeBug Music - Landing Page</strong> é um projecto desenvolvido para estudo, aplicado em uma necessidade real que é a construção de uma landing page para captação de leeds usando estratégias de <strong>Email-Marketing</strong> através de uma Newsletter e para apresentação de um projecto em desenvolvimento que é o <strong>SkeBug Music App</strong> - Uma plataforma de streaming musical e venda de músicas que procura dar maior visibilidade aos <strong> artistas do musical angolano</strong> e a melhor experiência de usabilidade aos seus ouvintes.
 </p>
 
 ---
-## 🛠 Technologies
-<p>The following tools were used in the construction of the project:</p>
-<strong>Language</strong>
+## 🛠 Tecnologias
+<p>As seguintes ferramentas foram usadas na construção do projecto:</p>
+<strong>Linguagem</strong>
 <ul>
     <li>
         <a href="https://www.w3schools.com/js/">JavaScript</a> 
@@ -70,7 +70,7 @@
     <li><a href="https://nextjs.org/">NextJS</a></li>
 </ul>
 
-<strong>Email Marketing Tool</strong>
+<strong>Ferramenta de Email Marketing</strong>
 <ul>
     <li><a href="https://mailchimp.com/">Mailchimp</a></li>
 </ul>
@@ -81,29 +81,28 @@
 </ul>
 
 ---
-## 🚀 How to run the project
+## 🚀 Como executar o projeto
 ---
-### ✅ Prerequisites:
+### ✅ Pré-requisitos:
 
 <li><a href="https://git-scm.com">Git</a></li>
 <li><a href="https://nodejs.org/en/">Node.js</a></li>
-<li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-<p>Besides, it's good to have an editor to work with code like <a href="https://code.visualstudio.com/">Visual Studio Code (VSCode)</a> </p>
+<p>Além disto é bom ter um editor para trabalhar com o código como o <a href="https://code.visualstudio.com/">Visual Studio Code (VSCode)</a> </p>
 
 ---
-### 🎲 Runing the project:
+### 🎲 Rodando o projecto
 </br>
 
-#### Clone the repository
+#### Clone o repositório
 ```bash
 git clone https://github.com/EvandroSilvaProgrammer/SkeBug_Music-LandingPage.git
 ```
-#### Access the project folder in terminal/cmd
+#### Acesse a pasta do projeto no terminal/cmd
 ```bash
 cd SkeBug_Music-LandingPage
 ```
 
-#### Install the dependencies
+#### Instale as dependências
 ```bash
 yarn
 ```
@@ -112,7 +111,7 @@ yarn
 npm install
 ```
 
-#### Run the application in development mode
+#### Execute a aplicação em modo de desenvolvimento
 ```bash
 yarn dev
 ```
@@ -121,11 +120,11 @@ yarn dev
 npm run dev
 ```
 
-#### The project will start at:3000 - access http://localhost:3000
+#### O projecto inciará na porta:3000 - acesse http://localhost:3000
 
 ---
 
-## 🦸 Author
+## 🦸 Autor
 
 <a href="https://github.com/EvandroSilvaProgrammer">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67426023?v=4" width="100px;" alt=""/>
@@ -141,14 +140,14 @@ npm run dev
 
 ---
 
-## 📝 License
+## 📝 Licença
 
-This project is under license [MIT](./LICENSE).
+Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Made with ❤️ by Evandro Silva AKA SkeBug 👋🏽 [Get int touch!](https://www.linkedin.com/in/evandrosilva-programmer/)
+Feito com ❤️ por Evandro Silva AKA SkeBug 👋🏽 [Entre em contato!](https://www.linkedin.com/in/evandrosilva-programmer/)
 
 ---
 
-##  README Versions
+##  Versões do README
 
-[Português 🇦🇴](./README-pt.md)  |  [English 🇺🇸](./README.md) 
+[Português 🇦🇴](./README-pt.md)  |  [Inglês 🇺🇸](./README.md) 
