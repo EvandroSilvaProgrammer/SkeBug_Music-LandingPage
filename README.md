@@ -25,23 +25,23 @@
 ---
 ## Índice:
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
+   * [Sobre](#sobre-o-projeto)
    * [Tecnologias](#tecnologias)
+   * [Como executar o projeto](#como-executar-o-projeto)
+      * [Pré-requisitos](#pré-requisitos)
+      * [Rodando o projecto](#rodando-o-projeto)
+   * [Autor](#autor)
+   * [Licença](#licença)
+   * [Versões do Read](#versões-do-readme)
+        * [Inglês](./README.md)
+        * [Português](./README-en.md)
+<!--/ts-->
 <!--te-->
 ---
 ## 💻 Sobre o projeto
 
 <p>
-    🎵<strong>SkeBug Music - Landing Page</strong> é um projecto desenvolvido para estudo, aplicado em uma necessidade real que é a contrução de uma landing page para captação de leeds usando estratrégias de <strong>Email-Marketing</strong> por meio de uma Newsletter e para apresentação de um projecto em desenvolimento que é o <strong>SkeBug Music App</strong> - Uma plataforma de streaming musical e venda de músicas que procura dar maior visibilidade aos <strong> artistas do musical angolano</strong> e a melhor exeperência de usabilidade aos seus ouvintes.
+    🎵 <strong>SkeBug Music - Landing Page</strong> é um projecto desenvolvido para estudo, aplicado em uma necessidade real que é a contrução de uma landing page para captação de leeds usando estratrégias de <strong>Email-Marketing</strong> por meio de uma Newsletter e para apresentação de um projecto em desenvolimento que é o <strong>SkeBug Music App</strong> - Uma plataforma de streaming musical e venda de músicas que procura dar maior visibilidade aos <strong> artistas do musical angolano</strong> e a melhor exeperência de usabilidade aos seus ouvintes.
 </p>
 
 ---
@@ -115,7 +115,7 @@ $ npm run dev
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67426023?v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Evandro Silva AKA SkeBug</b></sub></a> <a href="https://github.com/EvandroSilvaProgrammer" title="EvandroSilva">🇦🇴</a>
- <br />
+ <br /> <br />
 
 [![Linkedin Badge](https://img.shields.io/badge/-Evandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evandrosilva-programmer/)](https://www.linkedin.com/in/evandrosilva-programmer/) 
 
@@ -135,4 +135,4 @@ Feito com ❤️ por Evandro Silva AKA SkeBug 👋🏽 [Entre em contato!](https
 
 ##  Versões do README
 
-[Português 🇦🇴](./README.md)  |  [Inglês sem emojis 🇺🇸](./README-en.md) 
+[Português 🇦🇴](./README.md)  |  [Inglês 🇺🇸](./README-en.md) 
