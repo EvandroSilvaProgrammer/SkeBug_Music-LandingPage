@@ -76,13 +76,14 @@
 
 ---
 ## 🚀 Como executar o projeto
-
+---
 ### ✅ Pré-requisitos:
 
 <li><a href="https://git-scm.com">Git</a></li>
 <li><a href="https://nodejs.org/en/">Node.js</a></li>
 <p>Além disto é bom ter um editor para trabalhar com o código como o <a href="https://code.visualstudio.com/">Visual Studio Code (VSCode)</a> </p>
 
+---
 ### 🎲 Rodando o projecto
 
 ```bash
@@ -100,7 +101,8 @@ $ npm install
 # Execute a aplicação em modo de desenvolvimento
 $ yarn dev
 #ou
-$npm run dev
+$ npm run dev
+
 # O projecto inciará na porta:3000 - acesse http://localhost:3000
 
 ```
@@ -112,14 +114,14 @@ $npm run dev
 <a href="https://github.com/EvandroSilvaProgrammer">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/67426023?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Evandro Silva</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago/" title="Rocketseat">🚀</a>
+ <sub><b>Evandro Silva AKA SkeBug</b></sub></a> <a href="https://github.com/EvandroSilvaProgrammer" title="EvandroSilva">🇦🇴</a>
  <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Evandro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evandrosilva-programmer/)](https://www.linkedin.com/in/evandrosilva-programmer/) 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Thiago-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/)
+[![Linkedin Badge](https://img.shields.io/badge/-Evandro-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/evandrosilva.programmer)](https://www.facebook.com/evandrosilva.programmer)
 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-evandrosilva.programmer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:evandrosilva.programmer@gmail.com)
 
 ---
 
@@ -127,10 +129,10 @@ $npm run dev
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
-Feito com ❤️ por Thiago Marinho 👋🏽 [Entre em contato!](https://www.linkedin.com/in/tgmarinho/)
+Feito com ❤️ por Evandro Silva AKA SkeBug 👋🏽 [Entre em contato!](https://www.linkedin.com/in/evandrosilva-programmer/)
 
 ---
 
 ##  Versões do README
 
-[Português 🇧🇷](./README.md)  |  [Inglês sem emojis 🇺🇸](./README-en.md) | [Portugues sem logo  🇧🇷](./README-sem-logo.md) 
+[Português 🇦🇴](./README.md)  |  [Inglês sem emojis 🇺🇸](./README-en.md) 
