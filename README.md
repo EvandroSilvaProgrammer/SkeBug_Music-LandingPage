@@ -15,12 +15,15 @@
 <h1 align="center">
     <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/images/logo.png" />
 </h1>
+<h1 align="center">
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="ssrc/assets/images/readMe/banner.gif" />
+</h1>
 
 <h4 align="center"> 
 	🚧  SkeBug Music - Landing Page 🎵 Em construção 🚀 🚧
 </h4>
 
-<h3 align="center"> <a href="https://skebugmusic-landingpage.vercel.app/" target="_blank">Acessar a demonstração</a> </h3>
+<h3 align="center"> <a href="https://skebugmusic-landingpage.vercel.app/">Acessar a demonstração</a> </h3>
 
 ---
 ## Índice:
@@ -78,6 +81,7 @@
 <ul>
     <li><a href="https://vercel.com/">Vercel</a></li>
 </ul>
+
 ---
 ## 🚀 Como executar o projeto
 ---
