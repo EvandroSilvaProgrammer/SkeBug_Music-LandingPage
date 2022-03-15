@@ -20,7 +20,7 @@
 	🚧  SkeBug Music - Landing Page 🎵 Em construção 🚀 🚧
 </h4>
 
-<h3 align="center"> <a href="https://skebugmusic-landingpage.vercel.app/">Acessar a demonstração</a> </h3>
+<h3 align="center"> <a href="https://skebugmusic-landingpage.vercel.app/" target="_blank">Acessar a demonstração</a> </h3>
 
 ---
 ## Índice:
