@@ -12,15 +12,13 @@
 
    <img alt="" src="https://img.shields.io/badge/Feito por-Evandro Silva AKA SkeBug-blueviolet">
 </p>
-<h1 align="center">
-    <img alt="SkeBugMusic-LandingPage" title="#SkeBugMusic-LandingPage" src="src/assets/images/logo.png" />
-</h1>
+<h1 align="center" style="font-weight: bold"> 🎵 SkeBug Music - Landing Page 🎵</h1>
 <h1 align="center">
     <img alt="SkeBugMusic-LandingPage" title="#SkeBugMusic-LandingPage" src="src/assets/images/readMe/banner.gif" />
 </h1>
 
 <h4 align="center"> 
-	🚧  SkeBug Music - Landing Page 🎵 Em construção 🚀 🚧
+	🚧 Em construção 🚧
 </h4>
 
 <h3 align="center"> <a href="https://skebugmusic-landingpage.vercel.app/">Acessar a demonstração</a> </h3>
