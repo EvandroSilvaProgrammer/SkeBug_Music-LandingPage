@@ -13,10 +13,10 @@
    <img alt="" src="https://img.shields.io/badge/Feito por-Evandro Silva AKA SkeBug-blueviolet">
 </p>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="src/assets/images/logo.png" />
+    <img alt="SkeBugMusic-LandingPage" title="#SkeBugMusic-LandingPage" src="src/assets/images/logo.png" />
 </h1>
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="ssrc/assets/images/readMe/banner.gif" />
+    <img alt="SkeBugMusic-LandingPage" title="#SkeBugMusic-LandingPage" src="src/assets/images/readMe/banner.gif" />
 </h1>
 
 <h4 align="center"> 
