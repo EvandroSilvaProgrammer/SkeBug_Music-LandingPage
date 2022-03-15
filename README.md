@@ -20,7 +20,7 @@
 	🚧  SkeBug Music - Landing Page 🎵 Em construção 🚀 🚧
 </h4>
 
-<h3 align="center"> <a href="">Acessar a demonstração</a> </h3>
+<h3 align="center"> <a href="https://skebugmusic-landingpage.vercel.app/">Acessar a demonstração</a> </h3>
 
 ---
 ## Índice:
@@ -32,7 +32,7 @@
       * [Rodando o projecto](#-rodando-o-projeto)
    * [Autor](#-autor)
    * [Licença](#-licença)
-   * [Versões do Read](#-versões-do-readme)
+   * [Versões do ReadMe](#-versões-do-readme)
         * [Português](./README-pt.md)
         * [Inglês](./README.md)
 <!--/ts-->
@@ -74,6 +74,10 @@
     <li><a href="https://mailchimp.com/">Mailchimp</a></li>
 </ul>
 
+<strong>Deploy</strong>
+<ul>
+    <li><a href="https://vercel.com/">Vercel</a></li>
+</ul>
 ---
 ## 🚀 Como executar o projeto
 ---
