@@ -91,27 +91,36 @@
 
 ---
 ### 🎲 Rodando o projecto
+</br>
 
+#### 1 - Clone o repositório
 ```bash
-# 1 - Clone este repositório
-$ git clone https://github.com/EvandroSilvaProgrammer/SkeBug_Music-LandingPage.git
-
-# 2 - Acesse a pasta do projeto no terminal/cmd
-$ cd SkeBug_Music-LandingPage
-
-# Instale as dependências
-$ yarn
-#ou
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ yarn dev
-#ou
-$ npm run dev
-
-# O projecto inciará na porta:3000 - acesse http://localhost:3000
-
+git clone https://github.com/EvandroSilvaProgrammer/SkeBug_Music-LandingPage.git
 ```
+#### 2 - Acesse a pasta do projeto no terminal/cmd
+```bash
+cd SkeBug_Music-LandingPage
+```
+
+#### Instale as dependências
+```bash
+yarn
+```
+#### ou
+```bash
+npm install
+```
+
+#### Execute a aplicação em modo de desenvolvimento
+```bash
+yarn dev
+```
+#### ou
+```bash
+npm run dev
+```
+
+#### O projecto inciará na porta:3000 - acesse http://localhost:3000
 
 ---
 
