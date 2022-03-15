@@ -25,16 +25,16 @@
 ---
 ## Índice:
 <!--ts-->
-   * [Sobre](#sobre-o-projeto)
-   * [Tecnologias](#tecnologias)
-   * [Como executar o projeto](#como-executar-o-projeto)
-      * [Pré-requisitos](#pré-requisitos)
-      * [Rodando o projecto](#rodando-o-projeto)
-   * [Autor](#autor)
-   * [Licença](#licença)
-   * [Versões do Read](#versões-do-readme)
+   * [Sobre](#-sobre-o-projeto)
+   * [Tecnologias](#-tecnologias)
+   * [Como executar o projeto](#-como-executar-o-projeto)
+      * [Pré-requisitos](#-pré-requisitos)
+      * [Rodando o projecto](#-rodando-o-projeto)
+   * [Autor](#-autor)
+   * [Licença](#-licença)
+   * [Versões do Read](#-versões-do-readme)
+        * [Português](./README-pt.md)
         * [Inglês](./README.md)
-        * [Português](./README-en.md)
 <!--/ts-->
 <!--te-->
 ---
